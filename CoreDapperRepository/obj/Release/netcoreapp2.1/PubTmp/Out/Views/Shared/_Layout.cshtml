@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title - Dapper.Net repository pattern demo</title>
+    @*
+        <!--4.2.1-->
+        <link href="~/bootstrap.min.css" rel="stylesheet">
+        <!--1.14.2-->
+        <link href="~/bootstrap-table.min.css" rel="stylesheet">
+
+        <!--3.3.1-->
+        <script src="~/jquery-3.3.1.min.js"></script>
+        <!--1.14.6-->
+        <script src="~/popper.min.js"></script>
+        <!--1.19.0-->
+        <script src="~/jquery.validate.min.js"></script>
+        <!--3.2.11-->
+        <script src="~/jquery.validate.unobtrusive.min.js"></script>
+        <!--4.2.1-->
+        <script src="~/bootstrap.min.js"></script>
+        <!--1.14.2-->
+        <script src="~/bootstrap-table.min.js"></script>
+    *@
+
+    <link href="~/layui/css/layui.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="~/layui/layui.js"></script>
+
+</head>
+<body>
+    <div class="layui-main">
+        <h1 style="text-align: center; color: #ffffff; background-color: #c0c0c0;">Demo based on Dapper.Net repository pattern</h1>
+        <br />
+        @RenderBody()
+        <br />
+
+        <footer>
+            <h3 style="text-align: center;">@DateTime.Now.ToString("yyyy-MM-dd")</h3>
+        </footer>
+    </div>
+</body>
+</html>

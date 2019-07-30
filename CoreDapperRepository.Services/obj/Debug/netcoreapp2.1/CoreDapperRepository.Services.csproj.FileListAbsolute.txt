@@ -1,0 +1,14 @@
+D:\CoreDapperRepository\CoreDapperRepository.Services\bin\Debug\netcoreapp2.1\CoreDapperRepository.Services.deps.json
+D:\CoreDapperRepository\CoreDapperRepository.Services\bin\Debug\netcoreapp2.1\CoreDapperRepository.Services.dll
+D:\CoreDapperRepository\CoreDapperRepository.Services\bin\Debug\netcoreapp2.1\CoreDapperRepository.Services.pdb
+D:\CoreDapperRepository\CoreDapperRepository.Services\bin\Debug\netcoreapp2.1\CoreDapperRepository.Core.dll
+D:\CoreDapperRepository\CoreDapperRepository.Services\bin\Debug\netcoreapp2.1\CoreDapperRepository.Data.dll
+D:\CoreDapperRepository\CoreDapperRepository.Services\bin\Debug\netcoreapp2.1\CoreDapperRepository.Core.pdb
+D:\CoreDapperRepository\CoreDapperRepository.Services\bin\Debug\netcoreapp2.1\CoreDapperRepository.Data.pdb
+D:\CoreDapperRepository\CoreDapperRepository.Services\obj\Debug\netcoreapp2.1\CoreDapperRepository.Services.csprojAssemblyReference.cache
+D:\CoreDapperRepository\CoreDapperRepository.Services\obj\Debug\netcoreapp2.1\CoreDapperRepository.Services.csproj.CoreCompileInputs.cache
+D:\CoreDapperRepository\CoreDapperRepository.Services\obj\Debug\netcoreapp2.1\CoreDapperRepository.Services.AssemblyInfoInputs.cache
+D:\CoreDapperRepository\CoreDapperRepository.Services\obj\Debug\netcoreapp2.1\CoreDapperRepository.Services.AssemblyInfo.cs
+D:\CoreDapperRepository\CoreDapperRepository.Services\obj\Debug\netcoreapp2.1\CoreDapperRepository.Services.csproj.CopyComplete
+D:\CoreDapperRepository\CoreDapperRepository.Services\obj\Debug\netcoreapp2.1\CoreDapperRepository.Services.dll
+D:\CoreDapperRepository\CoreDapperRepository.Services\obj\Debug\netcoreapp2.1\CoreDapperRepository.Services.pdb
