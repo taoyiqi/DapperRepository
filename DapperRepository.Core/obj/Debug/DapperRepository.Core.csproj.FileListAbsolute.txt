@@ -1,0 +1,11 @@
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\bin\Debug\DapperRepository.Core.dll.config
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\bin\Debug\DapperRepository.Core.dll
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\bin\Debug\DapperRepository.Core.pdb
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\bin\Debug\RedLock.StrongName.dll
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\bin\Debug\StackExchange.Redis.StrongName.dll
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\bin\Debug\StackExchange.Redis.StrongName.xml
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\obj\Debug\DapperRepository.Core.csprojResolveAssemblyReference.cache
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\obj\Debug\DapperRepository.Core.dll
+D:\Code\Test2019\AutofacAndRedis\DapperRepository.Core\obj\Debug\DapperRepository.Core.pdb
