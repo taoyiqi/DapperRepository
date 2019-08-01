@@ -58,8 +58,10 @@ namespace DapperRepository.Services.Mssql.Customers
 
             if (string.IsNullOrEmpty(username) && string.IsNullOrEmpty(email))
             {
+                total = _repository.GetCustomerCount();
+
                 // 缓存无搜索条件的总记录数
-                total = _cacheManager.Get(string.Format(CustomerDefaults.CustomerTotalCountCacheKey, ConnKeyConstants.Mssql), 1440, () => _repository.GetCustomerCount());
+                //total = _cacheManager.Get(string.Format(CustomerDefaults.CustomerTotalCountCacheKey, ConnKeyConstants.Mssql), 1440, () => _repository.GetCustomerCount());
             }
             else
             {

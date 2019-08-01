@@ -20,6 +20,8 @@ namespace DapperRepository.Services.Mssql.Customers
 
         public IEnumerable<CustomerRole> GetCustomerRoles()
         {
+            return _repository.GetCustomerRoles();
+
             return _cacheManager.Get(string.Format(CustomerDefaults.CustomerRolesAllCacheKey, ConnKeyConstants.Mssql), 1440,
                 () => _repository.GetCustomerRoles());
         }

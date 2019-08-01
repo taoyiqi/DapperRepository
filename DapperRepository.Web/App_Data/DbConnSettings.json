@@ -1,5 +1,5 @@
 ﻿{
-    "MssqlMasterKey": "Data Source=.;Initial Catalog=DapperRepositoryDb;User Id=sa;Password=123;",
+    "MssqlMasterKey": "Data Source=172.24.105.40;Initial Catalog=DapperRepositoryDb;User Id=k2admin;Password=1q2w3e4r;",
     "MysqlMasterKey": "your mysql connection string",
     "LocalMysqlMasterKey": "you local mysql connection string"
 }

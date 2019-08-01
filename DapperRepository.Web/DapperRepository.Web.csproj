@@ -111,6 +111,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Redis.txt" />
     <Content Include="Scripts\customer-list.js" />
     <Content Include="Scripts\customer.js" />
     <Content Include="CreateAllMysql.sql" />
