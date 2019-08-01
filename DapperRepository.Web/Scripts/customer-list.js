@@ -145,7 +145,7 @@ layui.use(['table', 'form', 'layer'], function () {
         });
     });
 });
-
+ 
 function add() {
     layer.open({
         type: 2,
